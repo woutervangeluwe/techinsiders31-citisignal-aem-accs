@@ -1,4 +1,4 @@
-{{
+{
   "public": {
     "default": {
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/3yQNDAvL7Ld6cauPLnGgAf/graphql",
